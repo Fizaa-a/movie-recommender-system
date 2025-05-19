@@ -1,4 +1,4 @@
-![Project Banner]([https://github.com/your-username/your-repo-name/blob/main/movie.png](https://github.com/Fizaa-a/movie-recommender-system/blob/main/movie.png?raw=true))
+![Project Banner](movie.png)
 
 # 🎬 Movie Recommender System
 
