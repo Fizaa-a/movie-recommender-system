@@ -1,3 +1,5 @@
+![Project Banner](https://github.com/your-username/your-repo-name/blob/main/movie.png)
+
 # 🎬 Movie Recommender System
 
 A beginner-friendly **Movie Recommendation System** built using **Python** and **Jupyter Notebook**. This project uses **content-based filtering** to suggest similar movies based on a selected title.
